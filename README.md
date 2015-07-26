@@ -1,3 +1,1 @@
-# run_analysis.R
-
-hola
+# The.R file has comments that specifies what it does.
